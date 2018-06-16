@@ -1,1 +1,1 @@
-# Gesture-Recognition-and-controlling-an-automation-environment
+# Gesture-Recognition-and-controlling-the elements of a smart lab
